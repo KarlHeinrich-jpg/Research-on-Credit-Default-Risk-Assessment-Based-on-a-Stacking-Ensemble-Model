@@ -1,6 +1,7 @@
 {
   "title": "Credit Default Risk Assessment Based on a Stacking Ensemble Model: Research Materials",
   "upload_type": "dataset",
+  "license": "other-closed",
   "description": "Research materials for a two-level stacking-ensemble study of personal-loan default prediction. The repository includes the manuscript and editable framework materials, together with documentation of the 2023 Alibaba Cloud Tianchi data source, model architecture, comparison design, and current reproducibility boundaries. The archive is not a turnkey replication package: training scripts, processed data, fitted models, and a frozen environment are not all included. Users must follow the Tianchi data terms and report preprocessing, class-imbalance handling, validation splits, and evaluation metrics explicitly.",
   "creators": [
     {"name": "KarlHeinrich-jpg"}
